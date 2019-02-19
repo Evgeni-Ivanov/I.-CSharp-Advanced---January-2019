@@ -2,7 +2,15 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace StacksAndQueues
+namespace SoftUni
+        .ProfessionalModules
+        .CSharpWebDeveloper
+        .CSharpFundamentals
+        .CSharpFundamentalsJanuary2019
+        .CSharpAdvancedJanuary2019
+        .Lecture01StacksAndQueues
+        .Lab
+        .Problem02v02StackSum
 {
     public class StackSum
     {
