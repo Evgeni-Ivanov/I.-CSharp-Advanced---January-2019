@@ -1,7 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace StacksAndQueues
+namespace SoftUni
+        .ProfessionalModules
+        .CSharpWebDeveloper
+        .CSharpFundamentals
+        .CSharpFundamentalsJanuary2019
+        .CSharpAdvancedJanuary2019
+        .Lecture01StacksAndQueues
+        .Lab
+        .Problem04MatchingBrackets
 {
     public class MatchingBrackets
     {
