@@ -1,14 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace StacksAndQueues
+namespace SoftUni
+        .ProfessionalModules
+        .CSharpWebDeveloper
+        .CSharpFundamentals
+        .CSharpFundamentalsJanuary2019
+        .CSharpAdvancedJanuary2019
+        .Lecture01StacksAndQueues
+        .Lab
+        .Problem03v01SimpleCalculator
 {
     public class SimpleCalculator
     {
         public static void Main()
         {
             string[] input = Console.ReadLine()
-                .Split();
+                .Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
 
             Stack<string> stack = new Stack<string>();
 
