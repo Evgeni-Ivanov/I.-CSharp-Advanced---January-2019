@@ -7,7 +7,8 @@ namespace StacksAndQueues
     {
         public static void Main()
         {
-            string[] input = Console.ReadLine().Split();
+            string[] input = Console.ReadLine()
+                .Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
 
             int fatalToss = int.Parse(Console.ReadLine());
 
