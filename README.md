@@ -8,7 +8,7 @@ II. C# Fundamentals - January 2019
 I. C# Advanced - January 2019 
 -->
 
-- - [ ] 0 - Resources
+- - [x] 0 - Resources
 
 - - [ ] 00 - Course Introduction
 
