@@ -10,7 +10,7 @@ I. C# Advanced - January 2019
 
 - - [x] 0 - Resources
 
-- - [ ] 00 - Course Introduction
+- - [x] 00 - Course Introduction
 
 - - [ ] 01 - Stacks and Queues
     - [ ] Lab
