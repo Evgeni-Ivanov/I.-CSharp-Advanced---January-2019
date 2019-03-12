@@ -14,7 +14,7 @@ I. C# Advanced - January 2019
 
 - - [ ] 01 - Stacks and Queues
     - [x] Lab
-    - [ ] Exercises
+    - [x] Exercises
 
 - - [ ] 02 - Multidimensional Arrays
     - [ ] Lab
