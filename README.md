@@ -17,7 +17,7 @@ I. C# Advanced - January 2019
     - [x] Exercises
 
 - - [ ] 02 - Multidimensional Arrays
-    - [ ] Lab
+    - [x] Lab
     - [ ] Exercises
 
 - - [ ] 03 - Sets And Dictionaries Advanced
