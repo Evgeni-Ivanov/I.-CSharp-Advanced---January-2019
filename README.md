@@ -21,7 +21,7 @@ I. C# Advanced - January 2019
     - [ ] Exercises
 
 - - [ ] 03 - Sets And Dictionaries Advanced
-    - [ ] Lab
+    - [x] Lab
     - [ ] Exercises
 
 - - [ ] 04 - Streams, Files And Directories
