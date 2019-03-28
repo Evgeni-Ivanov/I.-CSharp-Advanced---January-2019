@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Problem04CitiesByContinentAndCountry</RootNamespace>
+    <PackageVersion>1.0</PackageVersion>
+    <Authors>Evgeni Ivanov</Authors>
+    <Owners>Evgeni Ivanov</Owners>
+    <Title>04.CitiesByContinentAndCountry</Title>
+  </PropertyGroup>
+
+</Project>
