@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Problem07SoftUniParty</RootNamespace>
+    <PackageVersion>1.0</PackageVersion>
+    <Authors>Evgeni Ivanov</Authors>
+    <Owners>Evgeni Ivanov</Owners>
+    <Title>07.SoftUniParty</Title>
+  </PropertyGroup>
+
+</Project>
