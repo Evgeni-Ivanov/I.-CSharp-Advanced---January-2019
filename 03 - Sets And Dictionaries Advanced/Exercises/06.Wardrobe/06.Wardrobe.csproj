@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Problem06Wardrobe</RootNamespace>
+    <PackageVersion>1.0</PackageVersion>
+    <Authors>Evgeni Ivanov</Authors>
+    <Owners>Evgeni Ivanov</Owners>
+    <Title>06.Wardrobe</Title>
+    <Copyright>Evgeni Ivanov © 2019</Copyright>
+  </PropertyGroup>
+
+</Project>
